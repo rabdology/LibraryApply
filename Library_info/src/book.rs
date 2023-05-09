@@ -1,8 +1,9 @@
+use chrono::NaiveDate;
 
- #[derive(Debug, Deserialize, Serialize)]
-struct Book {
-    title: String,
-    author: String,
-    due_date: DateTime<Utc>,
+pub struct Book {
+    pub isbn: String,
+    pub title: String,
+    pub authors: Vec<String>,
+    pub borrowed_date: NaiveDate,
+    pub due_date: NaiveDate,
 }
-

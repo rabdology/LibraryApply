@@ -1,10 +1,7 @@
 [dependencies]
-chrono = "0.4"
-hyper = "0.14"
-hyper-rustls = "0.22"
-oauth2 = "4.0"
-google-calendar3 = "2.0.8+20210319"
-reqwest = "0.11"
-serde = "1.0"
+reqwest = { version = "0.11", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
-tokio = { version = "1.0", features = ["full"] }
+chrono = "0.4"
+google-calendar3 = "5.0.2+20221229"
+google-authenticator = "0.4.2"
