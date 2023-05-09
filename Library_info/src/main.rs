@@ -9,4 +9,3 @@ use oauth2::{
     RedirectUrl, Scope, TokenUrl,
 };
 use google_calendar3::{api::EventsInsertCall, CalendarHub};
-
