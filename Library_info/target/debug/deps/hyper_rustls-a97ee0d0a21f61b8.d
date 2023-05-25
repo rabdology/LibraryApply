@@ -1,0 +1,11 @@
+C:\Users\19100\Documents\GitHub\LibraryApply\Library_info\target\debug\deps\hyper_rustls-a97ee0d0a21f61b8.rmeta: C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\lib.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\config.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector\builder.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\stream.rs
+
+C:\Users\19100\Documents\GitHub\LibraryApply\Library_info\target\debug\deps\libhyper_rustls-a97ee0d0a21f61b8.rlib: C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\lib.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\config.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector\builder.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\stream.rs
+
+C:\Users\19100\Documents\GitHub\LibraryApply\Library_info\target\debug\deps\hyper_rustls-a97ee0d0a21f61b8.d: C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\lib.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\config.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector\builder.rs C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\stream.rs
+
+C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\lib.rs:
+C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\config.rs:
+C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector.rs:
+C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\connector\builder.rs:
+C:\Users\19100\.cargo\registry\src\github.com-1ecc6299db9ec823\hyper-rustls-0.23.2\src\stream.rs:

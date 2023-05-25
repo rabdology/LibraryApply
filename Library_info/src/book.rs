@@ -1,9 +1,13 @@
-use chrono::NaiveDate;
-
 pub struct Book {
     pub isbn: String,
-    pub title: String,
-    pub authors: Vec<String>,
-    pub borrowed_date: NaiveDate,
-    pub due_date: NaiveDate,
+    pub due_date: String,
+}
+
+impl Book {
+    pub fn new(isbn: &str, due_date: &str) -> Book {
+        Book {
+            isbn: isbn.to_string(),
+            due_date: due_date.to_string(),
+        }
+    }
 }
